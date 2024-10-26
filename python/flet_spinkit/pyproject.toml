@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "flet_spinkit"
+version = "0.1.0"
+description = "A Flet package containing a collection of animated loading indicators."
+authors = ["Henri Ndonko <ndonkohenri@web.de>"]
+readme = "README.md"
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+flet = "^0.24.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

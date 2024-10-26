@@ -1,0 +1,1 @@
+from spinkit import Spinkit, SpinkitType
